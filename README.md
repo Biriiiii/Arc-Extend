@@ -21,3 +21,12 @@ Skin note Nitendo Switch
 -Version 1.1.2 : https://drive.google.com/file/d/1kJHJisg2-nj5PpcRicVnEO6yud_hNtAa/view?usp=sharing
 
 -Mirror 1.1.2 : Soon
+
+# Special Thanks
+-Massroi Leon
+
+-Nguyễn Bá Thiện
+
+-Saitoh Michos
+
+For test game
