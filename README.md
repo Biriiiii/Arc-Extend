@@ -29,5 +29,8 @@ Skin note Nitendo Switch
 
 -Saitoh Michos
 
--Add all tester Avos
+-And all tester Avos
 For test game
+
+-Ultima Doge 
+For charter
