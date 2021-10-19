@@ -12,7 +12,10 @@ Retouched all original game images
 
 Skin note Nitendo Switch
 
-# Changelog 1.1.2:
+# Changelog :
+
+[1.1.2]
+
 -Sync Source 3.8.6
 
 -New UI game
