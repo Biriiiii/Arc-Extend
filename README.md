@@ -1,4 +1,4 @@
-# Project-Ryuki
+# Project-PRyuki
 Modder by Kami_Ryuki
 
 This mod base 3.5.3 by Massroi Leon
