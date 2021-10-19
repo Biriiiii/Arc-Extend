@@ -29,4 +29,5 @@ Skin note Nitendo Switch
 
 -Saitoh Michos
 
+-Add all tester Avos
 For test game
