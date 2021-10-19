@@ -17,11 +17,6 @@ Skin note Nitendo Switch
 
 -New UI game
 
-# Download
--Version 1.1.2 : https://drive.google.com/file/d/1kJHJisg2-nj5PpcRicVnEO6yud_hNtAa/view?usp=sharing
-
--Mirror 1.1.2 : Soon
-
 # Special Thanks
 -Massroi Leon
 
@@ -31,3 +26,6 @@ Skin note Nitendo Switch
 
 -Add all tester Avos
 For test game
+
+-Ultima Doge
+For charter
