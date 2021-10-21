@@ -20,6 +20,16 @@ Skin note Nitendo Switch
 
 -New UI game
 
+[1.1.3]
+
+-Added 1 song MA
+
+-Added 4 song fanmade
+
+-Some change UI
+
+-Some bug fixed
+
 # Special Thanks
 -Massroi Leon
 
