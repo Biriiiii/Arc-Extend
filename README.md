@@ -61,7 +61,7 @@ And more
 
 -All available characters awaken 
 
--Fixed some búg
+-Fixed some bugs
 
 [1.1.9]------------------------------------------------------------------------------
 
