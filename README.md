@@ -17,6 +17,27 @@ Skin note Nitendo Switch
 And more
 
 # Changelog :
+
+[1.2.1]------------------------------------------------------------------------------
+
+-Added 20 song fanmade
+
+-Sync 3.10.1 song Arcaea
+
+-Some change character
+
+-Optimize game
+
+#Android
+
+-Optimize game
+
+-Fix some bugs
+
+#iOS
+
+-Fix some bugs
+
 [1.2.0]------------------------------------------------------------------------------
 
 -Fix n+1 bug 
