@@ -6,13 +6,63 @@ This mod base 3.5.3 by Massroi Leon
 # Feature
 Open all Character Version 3.5.3
 
-Up to 500+ song fanmade
+Up to 600+ song fanmade
+
+Sync Latest Arcaea song
 
 Retouched all original game images
 
 Skin note Nitendo Switch
 
+And more
+
 # Changelog :
+[1.2.0]------------------------------------------------------------------------------
+
+-Fix n+1 bug 
+
+-Add 52 songs (From Meta 1 -> 5)
+
+-Modified some game components 
+
+-Change the game UI
+
+-Change to new Cilent 
+
+-Keep Project's UI in game (No modification required) 
+
+#Android 
+
+-File size 695MB 
+
+-Preferred DEX file 
+
+-Optimize ODEX game 
+
+-Fix some crashes game
+
+-Fix backlog errors on old versions
+
+-Fixed some bugs 
+
+-Etc... 
+
+#iOS 
+
+-Sync 1.2.0 Android 
+
+-File size 716MB 
+
+-Fixed some bugs 
+
+#Server 
+
+-Stability mode 
+
+-All available characters awaken 
+
+-Fixed some búg
+
 [1.1.9]------------------------------------------------------------------------------
 
 #Android
