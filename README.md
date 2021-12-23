@@ -1,7 +1,5 @@
-# Project-PRyuki
-Modder by Kami_Ryuki
-
-This mod base 3.5.3 by Massroi Leon
+# Arc-Extend
+Modder by MassroiLeon
 
 # Feature
 Open all Character Version 3.5.3
