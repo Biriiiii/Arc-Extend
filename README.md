@@ -17,6 +17,7 @@ And more
 # Changelog :
 
 [1.2.2]------------------------------------------------------------------------------
+
 -Added 100 song fanmade
 
 -Sync latest song Arcaea
