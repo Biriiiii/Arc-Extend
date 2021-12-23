@@ -4,7 +4,7 @@ Modder by MassroiLeon
 # Feature
 Open all Character Version 3.5.3
 
-Up to 600+ song fanmade
+Up to 700+ song fanmade
 
 Sync Latest Arcaea song
 
@@ -16,6 +16,17 @@ And more
 
 # Changelog :
 
+[1.2.2]------------------------------------------------------------------------------
+-Added 100 song fanmade
+
+-Sync latest song Arcaea
+
+-Put return some pack fanmade
+
+#Android & iOS
+
+-Fix some bugs
+
 [1.2.1]------------------------------------------------------------------------------
 
 -Added 20 song fanmade
@@ -24,15 +35,9 @@ And more
 
 -Some change character
 
--Optimize game
-
-#Android
+#Android & iOS
 
 -Optimize game
-
--Fix some bugs
-
-#iOS
 
 -Fix some bugs
 
